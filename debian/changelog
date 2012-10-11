@@ -1,3 +1,9 @@
+openmediavault-iscsitarget (0.4.1-0aurex1) precise; urgency=low
+
+  * Rebuild for aurex 12.04
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 11 Oct 2012 10:26:07 +0200
+
 openmediavault-iscsitarget (0.4.1) stable; urgency=low
 
   * Fix xmlstarlet issue.
