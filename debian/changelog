@@ -1,8 +1,9 @@
-openmediavault-iscsitarget (0.4.1-0aurex1) precise; urgency=low
+openmediavault-iscsitarget (0.4.1+svn344-0aurex1) precise; urgency=low
 
+  * Upstream snapshot based on 'trunk' revision 344 (2012-10-12)
   * Rebuild for aurex 12.04
 
- -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 11 Oct 2012 10:26:07 +0200
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Fri, 12 Oct 2012 21:18:35 +0200
 
 openmediavault-iscsitarget (0.4.1) stable; urgency=low
 
